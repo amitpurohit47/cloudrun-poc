@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cloudrun</groupId>
-	<artifactId>poc</artifactId>
+	<artifactId>cloudrun-poc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>poc</name>
 	<description>Cloud run poc</description>
